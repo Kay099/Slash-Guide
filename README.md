@@ -73,7 +73,7 @@ Listo ahora podemos hacer los slash commands
                                                                                                        
 
 
-Para crear un slash es nesesario tener la siguiente [estructua](./codigos/estructura.js)
+Para crear un slash es nesesario tener la siguiente [estructura](./codigos/estructura.js)
 
 
 En esta parte
