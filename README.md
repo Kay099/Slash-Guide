@@ -15,7 +15,7 @@ Hola si estas aqui es porque quieres aprender como hacer slash commands.
 
 Nesecitamos [Node v16.x](https://nodejs.org/en/)
 
-Lo primero hecho esto tenemos que ir a nuestro escrito y crear una carpeta con el nombre que queramos
+Lo primero es que tenemos que ir a nuestro escrito y crear una carpeta con el nombre que queramos
 
 <img src='https://cdn.discordapp.com/attachments/884856330685407255/884856343104729128/unknown.png'></img>
 
